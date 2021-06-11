@@ -13,4 +13,10 @@ public class HelloWorld {
 		System.out.println(Msg);
 	}
 	
+	public static void whatFor() {
+		String Msg = "Whats up!";
+		System.out.println(Msg);
+	}
+
+	
 }
